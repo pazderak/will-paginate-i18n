@@ -1,0 +1,16 @@
+cs:
+  will_paginate:
+    next_label: Další &#8594;
+    page_entries_info:
+      multi_page: Zobrazeno %{model} %{from} - %{to} z celkem %{count}
+      multi_page_html: Zobrazeno %{model} <b>%{from}&nbsp;-&nbsp;%{to}</b> z celkem <b>%{count}</b>
+      single_page:
+        one: Zobrazen(o/a) 1 %{model}
+        other: Zobrazeno všech %{count} %{model}
+        zero: Žádn(ý/á/é) %{model} nenalezen(a/o)
+      single_page_html:
+        one: Zobrazen(o/a) <b>1</b> %{model}
+        other: Zobrazeno <b>všech&nbsp;%{count}</b> %{model}
+        zero: Žádn(ý/á/é) %{model} nenalezen(a/o)
+    page_gap: ! '&hellip;'
+    previous_label: ! '&#8592; Další'
