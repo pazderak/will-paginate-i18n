@@ -13,4 +13,4 @@ cs:
         other: Zobrazeno <b>všech&nbsp;%{count}</b> %{model}
         zero: Žádn(ý/á/é) %{model} nenalezen(a/o)
     page_gap: ! '&hellip;'
-    previous_label: ! '&#8592; Další'
+    previous_label: ! '&#8592; Předchozí'
