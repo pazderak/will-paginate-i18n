@@ -6,10 +6,12 @@ cs:
       multi_page_html: Zobrazuji %{model} <b>%{from}&nbsp;-&nbsp;%{to}</b> z celkem <b>%{count}</b>
       single_page:
         one: Zobrazuji 1 %{model}
+        few: Zobrazuji %{count} %{model}
         other: Zobrazuji všech %{count} %{model}
         zero: Žádn(ý/á/é) %{model} nenalezen(a/o)
       single_page_html:
         one: Zobrazuji <b>1</b> %{model}
+        few: Zobrazuji <b>%{count}</b> %{model}
         other: Zobrazuji <b>všech&nbsp;%{count}</b> %{model}
         zero: Žádn(ý/á/é) %{model} nenalezen(a/o)
     page_gap: ! '&hellip;'
