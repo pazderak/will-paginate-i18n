@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{will-paginate-i18n}
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Christopher Dell}]
-  s.date = %q{2012-03-11}
+  s.date = %q{2012-04-07}
   s.description = %q{Translations for the will_paginate gem}
   s.email = %q{chris@tigrish.com}
   s.extra_rdoc_files = [
@@ -29,6 +29,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/will-paginate-i18n.rb",
     "locales/bg.yml",
+    "locales/cs.yml",
     "locales/da.yml",
     "locales/de.yml",
     "locales/en-AU.yml",
@@ -54,7 +55,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/tigrish/will-paginate-i18n}
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.8.15}
   s.summary = %q{Translations for the will_paginate gem}
 
   if s.respond_to? :specification_version then
