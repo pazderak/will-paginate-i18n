@@ -4,21 +4,15 @@
 
 Translations for the will-paginate gem.
 
-These tranlsations can be included automatically using the
-[Locale](http://www.localeapp.com) localization app.
-
 ## Contributing to will-paginate-i18n
- 
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
-* Fork the project
-* Start a feature/bugfix branch
-* Commit and push until you are happy with your contribution
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+
+- Edit the translations directly on the [will-paginate-i18n](http://www.localeapp.com/projects/378) project on Locale.
+- **That's it!**
+- The maintainer will then pull translations from the Locale project and push to Github.
+
+Happy translating!
 
 ## Copyright
 
 Copyright (c) 2011 Christopher Dell. See LICENSE.txt for
 further details.
-
